@@ -1,5 +1,5 @@
 <?php
 
-$iheartwoo = 'I heart Woo because it is the best place to work!';
+$iheartwoo = 'I heart Woo because everyone is so awesome!’;
 echo $iheartoo;
 
